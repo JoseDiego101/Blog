@@ -36,3 +36,5 @@ gem "eventmachine", "~> 1.2"
 gem "sorted_set", "~> 1.0"
 
 gem "rbtree", "~> 0.4.4"
+
+gem "psych", "~> 4.0"
